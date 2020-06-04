@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test001","This test will Get All Games :","SUCCESS","2020-06-04T11:12:35.940+01:00[Europe/London]","0.0","7.13"
+"Test001","This test will get game by it's frequency : ","SUCCESS","2020-06-04T11:12:43.126+01:00[Europe/London]","0.0","1.3"

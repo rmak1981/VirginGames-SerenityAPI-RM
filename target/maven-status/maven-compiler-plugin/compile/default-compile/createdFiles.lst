@@ -1,0 +1,7 @@
+com\virgingames\utils\PropertyReader.class
+com\virgingames\constants\EndPoints.class
+com\virgingames\model\GamesApiRequest.class
+com\virgingames\errormessages\ErrorMessages.class
+com\virgingames\steps\VirginGameSteps.class
+com\virgingames\model\GamesPojo.class
+com\virgingames\constants\Path.class
